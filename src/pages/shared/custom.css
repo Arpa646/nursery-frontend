@@ -1,0 +1,11 @@
+.navbar-hidden {
+    max-height: 0;
+    overflow: hidden;
+    opacity: 0;
+  }
+  
+  .navbar-visible {
+    max-height: 500px; /* Adjust this value based on the content height */
+    opacity: 1;
+  }
+  
